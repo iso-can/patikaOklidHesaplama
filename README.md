@@ -1,0 +1,2 @@
+# patikaOklidHesaplama
+Öklid Hesaplama
